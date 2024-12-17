@@ -1,15 +1,9 @@
-# osticket-ticket-cycle
-
-
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+In this tutorial you will see various scenarios that take place during the cycle of a ticket, from the time its placed by a back-end user all the way to its completion from either a desk-agent or admin. user. You will also learn the different characteristics of a ticket and use some of those characteristics to help determine it's severity and priority.<br />
 
 
 <h2>Video Demonstration</h2>
