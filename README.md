@@ -38,7 +38,7 @@ Step 2:
 <img src="https://i.imgur.com/dYanzYJ.png"/>
 </p>
 <p>
-Log into the osTicket-vm remtote desktop and press connect..
+Log into the osTicket-vm remtote desktop and press connect.
 </p>
 <br />
 Step 3:
@@ -54,7 +54,7 @@ Step 4:
 <img src="https://i.imgur.com/BGEy0Pq.png"/>
 </p>
 <p>
-Next click open the help desk desk agent/admin user page. 
+Next click open the help desk agent/admin user page. 
 </p>
 <br />
 Step 5: 
@@ -78,7 +78,7 @@ Step: 6
 <img src="https://i.imgur.com/pFwkEYF.png"/>
 </p>
 <p>
-Further down on the screen fill in ticekt details. For this particualar scenerio the entire mobile/online banking system is down. Insert that in the Issue Summary box as the title and in the text box below that fill in a more detailed but breif description of the problem. Press Create Ticket.
+Further down on the screen fill in ticket details. For this particular scenerio the entire mobile/online banking system is down. Insert that in the Issue Summary box as the title and in the text box below that, fill in a more detailed but breif description of the problem. Press Create Ticket.
 </p>
 <br />
 Step 7:
@@ -94,7 +94,7 @@ Step 8:
 <img src="https://i.imgur.com/EgRdQ3j.png"/>
 </p>
 <p>
-Click on the ticket subject line link to open it. As you can see it shows that the ticket was sent form Karen. At the top it shows that this is Johns account.
+Click on the ticket subject line link to open it. As you can see it shows that the ticket was sent form Karen. At the top it shows that this is John's account.
 </p>
 <br />
 Step 9:
@@ -102,7 +102,7 @@ Step 9:
 <img src="https://i.imgur.com/19fEGc9.png"/>
 </p>
 <p>
-After carefully viewing the ticket, one fo the first things John does is select a SLA-Plan. An SLA-Plan determines the severity and priority of a ticket. In this case the online banking outage a is an extremly urgent issuse so John as set the plan to Sev-A. In the Drop down menu of SLA-Plan select Sev-A and make a note in the comment box. Click update.
+After carefully viewing the ticket, one of the first things John does is select a SLA-Plan. An SLA-Plan determines the severity and priority of a ticket. In this case the online banking outage a is an extremly urgent issue so John as set the plan to Sev-A. In the Drop down menu of SLA-Plan select Sev-A and make a note in the comment box. Click update.
 </p>
 <br />
 Step 10:
@@ -142,7 +142,7 @@ Step 14:
 <img src="https://i.imgur.com/fSpP5As.png"/>
 </p>
 <p>
-Now that the ticket has been escalated to the banking department, log out of Johns account and log back into the deskagent/admin user page as Jane who works in the online banking support satff department.
+Now that the ticket has been escalated to the banking department, log out of Johns account and log back into the deskagent/admin user page as Jane who works in the online banking support staff department.
 </p>
 <br />
 Step 15:
@@ -231,6 +231,7 @@ Step 25:
 </p>
 <p>
 This time the supprot ticket will be coming from Ken. Enter in Kens email address, name and phone number. 
+</p>
 <br />
 Step 26:
 <p>
@@ -269,7 +270,7 @@ Step 30:
 <img src="https://i.imgur.com/YRDwUtg.png"/>
 </p>
 <p>
-Next go to and click on the Assigne line. In the drop down menu for Assignee select John Doe for he will be assigning this ticket to himself. Click asssign in the bottom right. 
+Next go to and click on the Assign line. In the drop down menu for Assignee select John Doe for he will be assigning this ticket to himself. Click asssign in the bottom right. 
 </p>
 <br />
 Step 31:
@@ -445,9 +446,9 @@ Step 52:
 <img src="https://i.imgur.com/HsdCivl.png"/>
 </p>
 <p>
-The ticket has successfully been resolved and closed. If you want to see all the previouse resloved and closed out tickets you must first log out of Johns account as a desk agent and log back in as the admin user. Helpdesk agents accounts werent programmed to see resolved and closed out tickets on their user dashboard only admin users. 
+The ticket has successfully been resolved and closed. If you want to see all the previouse resloved and closed out tickets you must first log out of Johns account as a desk agent and log back in as the admin user. Helpdesk agents accounts weren't programmed to see resolved and closed out tickets on their user dashboard only admin users. 
 
-This here concludes the project tutorial and walkthrough steps of different scenerios that take place during the life-cycle of a tiket within the osTicket Ticketing software program.
+This here concludes the project tutorial and walkthrough steps of different scenerios that take place during the life-cycle of a ticket within the osTicket Ticketing software program.
 </p>
 <br />
 
