@@ -5,16 +5,11 @@
 <h1>osTicket - Ticket-Cycle</h1>
 In this tutorial you will see various scenarios that take place during the cycle of a ticket, from the time its placed by a back-end user all the way to its completion from either a desk-agent or admin. user. You will also learn the different characteristics of a ticket and use some of those characteristics to help determine it's severity and priority.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- OsTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -22,453 +17,437 @@ In this tutorial you will see various scenarios that take place during the cycle
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Computer Desktop/Laptop
+- Wifi Connection
+- Remote Desktop
+- Azure Account
+- OsTicket needs to already be installed
+  
+<h2>OsTicket Ticketing Cycle-Walkthrough Steps </h2>
 
-<h2>Installation Steps</h2>
-
+Step 1:
 <p>
 <img src="https://i.imgur.com/PXh8kmc.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure the osTicket-vm is turned on within Azure. Press the start button to turn on if truned off.
 </p>
 <br />
-
+Step 2:
 <p>
 <img src="https://i.imgur.com/dYanzYJ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into the osTicket-vm remtote desktop and press connect..
 </p>
 <br />
-
+Step 3:
 <p>
 <img src="https://i.imgur.com/Rp1NH2e.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the bookmark section of the internet hompage click open the helpdesk support center page. 
 </p>
 <br />
-
+Step 4:
 <p>
 <img src="https://i.imgur.com/BGEy0Pq.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next click open the help desk desk agent/admin user page. 
 </p>
 <br />
-
+Step 5: 
 <p>
 <img src="https://i.imgur.com/6KLm5sN.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the Support Center page click on Open a New Ticket. Here is where backend users/clients submit ticket requests/complaints to the helpdesk support team. 
 </p>
 <br />
-
+Step 5:
 <p>
 <img src="https://i.imgur.com/igv0MEB.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen will be used in the first example. Insert Karen's email address, name , and phone number. For Help Topic select Report a Problem. 
 </p>
 <br />
-
+Step: 6
 <p>
 <img src="https://i.imgur.com/pFwkEYF.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Further down on the screen fill in ticekt details. For this particualar scenerio the entire mobile/online banking system is down. Insert that in the Issue Summary box as the title and in the text box below that fill in a more detailed but breif description of the problem. Press Create Ticket.
 </p>
 <br />
-
+Step 7:
 <p>
 <img src="https://i.imgur.com/iwpVTJq.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next click open the helpdesk/admin user page. John the helpdesk agent will be taking a look at this ticket. Log in with his credentials created in the previouse project tutorial.
 </p>
 <br />
-
+Step 8:
 <p>
 <img src="https://i.imgur.com/EgRdQ3j.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the ticket subject line link to open it. As you can see it shows that the ticket was sent form Karen. At the top it shows that this is Johns account.
 </p>
 <br />
-
+Step 9:
 <p>
 <img src="https://i.imgur.com/19fEGc9.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After carefully viewing the ticket, one fo the first things John does is select a SLA-Plan. An SLA-Plan determines the severity and priority of a ticket. In this case the online banking outage a is an extremly urgent issuse so John as set the plan to Sev-A. In the Drop down menu of SLA-Plan select Sev-A and make a note in the comment box. Click update.
 </p>
 <br />
-
+Step 10:
 <p>
 <img src="https://i.imgur.com/11pwNXS.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The SLA-Plan has been successfully created for this ticket order. 
 </p>
 <br />
-
+Step 11:
 <p>
 <img src="https://i.imgur.com/UkxSyBi.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next John goes to the 'Assign To/Unassigned' link.
 </p>
 <br />
-
+Step 12:
 <p>
 <img src="https://i.imgur.com/ybA41yU.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John now escalates the ticket to the online banking department for this is a banking issue. So in the Assignee drop down menu select online banking and make a note to the online banking team what the problem is. Click on Assign.
 </p>
 <br />
-
+Step 13:
 <p>
 <img src="https://i.imgur.com/5lClrGA.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next, John clicks on the Help Topic section. Make sure to click on link and set it to Report a Problem/Buisness Critical Outage. Make a note that no customers have access to the online banking portal. Make sure to press update. The ticket has successfully been assigned and escalated to someone in the banking department.
+</p>. 
 <br />
-
-<p>
-<img src="https://i.imgur.com/5lClrGA.png"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+Step 14:
 <p>
 <img src="https://i.imgur.com/fSpP5As.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that the ticket has been escalated to the banking department, log out of Johns account and log back into the deskagent/admin user page as Jane who works in the online banking support satff department.
 </p>
 <br />
-
+Step 15:
 <p>
 <img src="https://i.imgur.com/9rS8aGQ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the subject ticket link to open the ticket. 
 </p>
 <br />
-
+Step 16:
 <p>
 <img src="https://i.imgur.com/Jwij4GR.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the Assigned To tab and click on Online Banking. 
 </p>
 <br />
-
+Step 17:
 <p>
 <img src="https://i.imgur.com/ryvsZb6.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Assignee drop down menu Jane has assigned the ticket to herself and makes a note that she'll be taking this ticket. Select Jane Doe as the Assignee click assign.
 </p>
 <br />
-
+Step 18:
 <p>
 <img src="https://i.imgur.com/7so3PX9.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket has successfully been assigned to Jane Doe and as you can see the 'Assigned to' section has been updated to Jane Doe/Online Banking.
 </p>
 <br />
-
+Step 19:
 <p>
 <img src="https://i.imgur.com/3Gl3ckh.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Further down in the post reply section Jane makes a note metioning what she suspects to be the problem and that she ran tests but will look further into the issue to see what the actual cause is. Click on Post Reply to send the note.
 </p>
 <br />
-
+Step 20:
 <p>
 <img src="https://i.imgur.com/6072wna.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Another note as been sent by Jane confirming the root cuase of the issue and that a vendor has been notified for a proper fix. Online banking should be up and running. Click on Post Reply.
 </p>
 <br />
-
+Step 21: 
 <p>
 <img src="https://i.imgur.com/78ZhBdy.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since problem as been resolved it's time to close out the ticket.
 </p>
 <br />
-
+Step 22:
 <p>
 <img src="https://i.imgur.com/Ybsiycg.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the status line of the ticket and click on the open for the dropdown menu. Select Resovled not Closed. A closed ticket doesn't neccessarliy mean the problem has been resolved.
 </p>
 <br />
-
+Step 23:
 <p>
 <img src="https://i.imgur.com/9hG9HgF.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The close ticket box should come up with 'resolved as the status'. Click close at the bottom right.
 </p>
 <br />
-
+Step 24:
 <p>
 <img src="https://i.imgur.com/LnvRmVK.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, another ticket will be opened. Press Open a New Ticket on the Support Center Page. 
 </p>
 <br />
-
+Step 25:
 <p>
 <img src="https://i.imgur.com/7Jjh8MZ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+This time the supprot ticket will be coming from Ken. Enter in Kens email address, name and phone number. 
 <br />
-
+Step 26:
 <p>
 <img src="https://i.imgur.com/uNTj3j2.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For Help Topic select General Inquiry from the frop down menu. 
 </p>
 <br />
-
+Step 27:
 <p>
 <img src="https://i.imgur.com/tD2z4yv.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this particular scenerio the accounting department needs an adobe upgrade/broken. Put this as the Issue Summary Title. And in the text box below just breifly expound a little more on what the issue is. Click Create ticket.
 </p>
 <br />
-
+Step 28:
 <p>
 <img src="https://i.imgur.com/WT2C2og.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure to log back into the deskagent/admin user page with Johns login credentials before opening the ticket. Once the page is open click on the subject link to open the ticket. 
 </p>
 <br />
-
+Step 29:
 <p>
 <img src="https://i.imgur.com/PU2J3Dx.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the SLA-Plan and select Sev-C. Make a note that only two people can't access their Adobe accounts. The Sev-C plan is the least priority plan there is on this OsTicket installation. In this case since its only two people expericing the issue then the problem isn't considered that severe. Make sure to press Update when done. 
 </p>
 <br />
-
+Step 30:
 <p>
 <img src="https://i.imgur.com/YRDwUtg.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next go to and click on the Assigne line. In the drop down menu for Assignee select John Doe for he will be assigning this ticket to himself. Click asssign in the bottom right. 
 </p>
 <br />
-
+Step 31:
 <p>
 <img src="https://i.imgur.com/LMITvxs.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John then create's a post reply restating what the problem is and mentions will call back for an update after lunch. Click on Post Reply.
 </p>
 <br />
-
+Step 32:
 <p>
 <img src="https://i.imgur.com/wODH5K3.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John sends another note in the post reply section stating that restarting the program fixed the issue and then clicks on Post reply.
 </p>
 <br />
-
+Step 33:
 <p>
 <img src="https://i.imgur.com/XrFjWtZ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this next step click on the post internal notes tab. This tab is where only internal deskagent and sysadmin employees can see notes, not the client/customer/or backend user. It's still important to keep comments liberal and respectable.
 </p>
 <br />
-
+Step 34:
 <p>
 <img src="https://i.imgur.com/o4FvEb2.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As you can see John sends an internal note to another agent in the department. Make sure to click Post Note at the bottom. 
 </p>
 <br />
-
+Step 35:
 <p>
 <img src="https://i.imgur.com/ZDqDoFI.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that ticket has been resolved click on the status dropdown menu link.
 </p>
 <br />
-
+Step 36:
 <p>
 <img src="https://i.imgur.com/oGwPkX8.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on resolved. 
 </p>
 <br />
-
+Step 37:
 <p>
 <img src="https://i.imgur.com/r8QKP8a.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Status should be set to Resolved. Add in a breif note in the text box below describing the current status (optional). Then press close
 </p>
 <br />
-
+Step 38:
 <p>
 <img src="https://i.imgur.com/LoqtpJr.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Last and final scenerio go back onto the Support Center home page. Click on Open A New Ticket. 
 </p>
 <br />
-
+Step 39:
 <p>
 <img src="https://i.imgur.com/ieYt9UO.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Backend user Karen will be sending in the ticket. Make sure to add in her email, name and phone number.
 </p>
 <br />
-
+Step 40:
 <p>
 <img src="https://i.imgur.com/7xhYn5V.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For Help Topic Select Report a Problem/ Personal Computer Issues.
 </p>
 <br />
-
+Step 41:
 <p>
 <img src="https://i.imgur.com/kXe7ond.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Underneath Ticket details for Issue Summary the CFO's laptop will no longer turn on. Enter that in the Issue Summary title box. Press Create Ticket.
 </p>
 <br />
-
+Step 42:
 <p>
 <img src="https://i.imgur.com/IZDFi3w.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure to be logged into the deskagent/admin page account as John. Click on the Subject line link to open the ticket. 
 </p>
 <br />
-
-
+Step 43:
 <p>
 <img src="https://i.imgur.com/ds53uxT.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set the priority level to Emergency since this is the CFO of the company. 
 </p>
 <br />
-
-
+Step 44:
 <p>
 <img src="https://i.imgur.com/Wyx4jvM.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the SLA Plan set to Sev-B since this might possibly be a slightly severe issue but not that much. 
 </p>
 <br />
-
-
+Step 45:
 <p>
 <img src="https://i.imgur.com/p9Nqzbc.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make a note that SLA plan may get reclassified. Press Update.
 </p>
 <br />
-
-
+Step 46:
 <p>
 <img src="https://i.imgur.com/Q0ZNYmH.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the Assigned to line and click on the dropdown menu. John Doe will be taking the ticket himself. Select his name. 
 </p>
 <br />
-
-
+Step 47:
 <p>
 <img src="https://i.imgur.com/HT6Lzpy.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click the Assign button. 
 </p>
 <br />
-
-
+Step 48:
 <p>
 <img src="https://i.imgur.com/FipdLkj.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the post reply section John sends a note about CFO's broken charger and that being the root cause as to why his laptop wouldn't turn on. Make sure to click on Post Reply. 
 </p>
 <br />
-
-
+Step 49:
 <p>
 <img src="https://i.imgur.com/QIO20qM.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, got to status and click on the 'open' link to bring up the drop down menu.
 </p>
 <br />
-
-
+Step 50:
 <p>
 <img src="https://i.imgur.com/4MJCCWv.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on Rsolved.
 </p>
 <br />
-
-
+Step 51:
 <p>
 <img src="https://i.imgur.com/GSkbptD.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resolved should be selected and make a note in the text box the status of the issue. Click on the Close button. 
 </p>
 <br />
-
-
+Step 52:
 <p>
 <img src="https://i.imgur.com/HsdCivl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket has successfully been resolved and closed. If you want to see all the previouse resloved and closed out tickets you must first log out of Johns account as a desk agent and log back in as the admin user. Helpdesk agents accounts werent programmed to see resolved and closed out tickets on their user dashboard only admin users. 
+
+This here concludes the project tutorial and walkthrough steps of different scenerios that take place during the life-cycle of a tiket within the osTicket Ticketing software program.
 </p>
 <br />
 
