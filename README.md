@@ -205,7 +205,7 @@ Step 20: Further down in the post reply section Jane makes a note metioning what
 
 </p>
 <br />
-Step 21: Another note as been sent by Jane confirming the root cuase of the issue and that a vendor has been notified for a proper fix. Online banking should be up and running. Click on Post Reply.
+Step 21: Another note as been sent by Jane confirming the root cause of the issue and that a vendor has been notified for a proper fix. Online banking should be up and running. Click on Post Reply.
 </p>
 <p>
 <img src="https://i.imgur.com/6072wna.png"/>
