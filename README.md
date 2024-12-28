@@ -232,7 +232,7 @@ Step 23: Go to the status line of the ticket and click on the open for the dropd
 
 </p>
 <br />
-Step 24: The close ticket box should come up with 'resolved as the status'. Click close at the bottom right.
+Step 24: The close ticket box should come up with 'resolved' as the status. Click close at the bottom right.
 </p>
 <p>
 <img src="https://i.imgur.com/9hG9HgF.png"/>
