@@ -178,7 +178,7 @@ Step 17: Go to the Assigned To tab and click on Online Banking.
 
 </p>
 <br />
-Step 18: In the Assignee drop down menu Jane has assigned the ticket to herself and makes a note that she'll be taking this ticket. Select Jane Doe as the Assignee click assign.
+Step 18: In the Assignee drop down menu Jane has assigned the ticket to herself and makes a note that she'll be taking this ticket. Select Jane Doe as the Assignee then click assign.
 </p>
 <p>
 <img src="https://i.imgur.com/ryvsZb6.png"/>
