@@ -250,7 +250,7 @@ Step 25: Next, another ticket will be opened. Press Open a New Ticket on the Sup
 
 </p>
 <br />
-Step 26: This time the supprot ticket will be coming from Ken. Enter in Kens email address, name and phone number. 
+Step 26: This time the supprot ticket will be coming from Ken. Enter in Ken's email address, name and phone number. 
 </p>
 <p>
 <img src="https://i.imgur.com/7Jjh8MZ.png"/>
