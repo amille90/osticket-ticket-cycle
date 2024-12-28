@@ -259,16 +259,16 @@ Step 26: This time the supprot ticket will be coming from Ken. Enter in Ken's em
 
 </p>
 <br />
-Step 27: For Help Topic select General Inquiry from the frop down menu. 
+Step 27: For Help Topic select General Inquiry from the drop down menu. 
 </p>
 <p>
 <img src="https://i.imgur.com/uNTj3j2.png"/>
 </p>
 <p>
-For Help Topic select General Inquiry from the frop down menu. 
+ 
 </p>
 <br />
-Step 28: For this particular scenerio the accounting department needs an adobe upgrade/broken. Put this as the Issue Summary Title. And in the text box below just breifly expound a little more on what the issue is. Click Create ticket.
+Step 28: For this particular scenerio the accounting department needs an adobe upgrade/broken. Put this as the Issue Summary Title. And in the text box below just breifly expound a little more on what the issue is. Click Create Ticket.
 </p>
 <p>
 <img src="https://i.imgur.com/tD2z4yv.png"/>
@@ -277,7 +277,7 @@ Step 28: For this particular scenerio the accounting department needs an adobe u
 
 </p>
 <br />
-Step 29: Make sure to log back into the deskagent/admin user page with Johns login credentials before opening the ticket. Once the page is open click on the subject link to open the ticket. 
+Step 29: Make sure to log back into the deskagent/admin user page with John's login credentials before opening the ticket. Once the page is open click on the subject link to open the ticket. 
 </p>
 <p>
 <img src="https://i.imgur.com/WT2C2og.png"/>
@@ -286,7 +286,7 @@ Step 29: Make sure to log back into the deskagent/admin user page with Johns log
 
 </p>
 <br />
-Step 30: Click on the SLA-Plan and select Sev-C. Make a note that only two people can't access their Adobe accounts. The Sev-C plan is the least priority plan there is on this OsTicket installation. In this case since its only two people expericing the issue then the problem isn't considered that severe. Make sure to press Update when done. 
+Step 30: Click on the SLA-Plan and select Sev-C. Make a note that only two people can't access their Adobe accounts. The Sev-C plan is the least priority plan there is on this OsTicket installation. In this case since it's only two people expericing the issue then the problem isn't considered that severe. Make sure to press Update when done. 
 </p>
 <p>
 <img src="https://i.imgur.com/PU2J3Dx.png"/>
@@ -367,7 +367,7 @@ Step 38: Status should be set to Resolved. Add in a breif note in the text box b
 
 </p>
 <br />
-Step 39: Last and final scenerio go back onto the Support Center home page. Click on Open A New Ticket. 
+Step 39: Last and final scenerio, go back onto the Support Center home page. Click on Open A New Ticket. 
 </p>
 <p>
 <img src="https://i.imgur.com/LoqtpJr.png"/>
@@ -403,7 +403,7 @@ Step 42: Underneath Ticket details for Issue Summary the CFO's laptop will no lo
 
 </p>
 <br />
-Step 43: Make sure to be logged into the deskagent/admin page account as John. Click on the Subject line link to open the ticket. 
+Step 43: Make sure to be logged into the deskagent/admin page account as John. Click on the Subject line to open the ticket. 
 </p>
 <p>
 <img src="https://i.imgur.com/IZDFi3w.png"/>
@@ -412,7 +412,7 @@ Step 43: Make sure to be logged into the deskagent/admin page account as John. C
 
 </p>
 <br />
-Step 44: Set the priority level to Emergency since this is the CFO of the company. 
+Step 44: Set the priority level to Emergency.
 </p>
 <p>
 <img src="https://i.imgur.com/ds53uxT.png"/>
@@ -467,7 +467,7 @@ Step 49: In the post reply section John sends a note about CFO's broken charger 
 </p>
 <br />
 Step 50: 
-Next, got to status and click on the 'open' link to bring up the drop down menu.
+Next, go to status and click on the 'open' link to bring up the drop down menu.
 </p>
 <p>
 <img src="https://i.imgur.com/QIO20qM.png"/>
